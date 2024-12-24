@@ -20,3 +20,7 @@ Wind speed and direction
 Pressure and precipitation information
 Sunrise/sunset time
 Weather Radar & Rain maps
+
+this is my project output 
+![image](https://github.com/user-attachments/assets/ea015632-4f1d-47e8-b8ee-67f7552889e8)
+
